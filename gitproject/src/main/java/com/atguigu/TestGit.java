@@ -7,5 +7,6 @@ package com.atguigu;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("AAAAAAAAAAAAAAAAAAAAAAAA");
+        System.out.println("给你吃颗糖");
     }
 }
